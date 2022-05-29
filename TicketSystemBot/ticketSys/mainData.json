@@ -1,32 +1,16 @@
 {
     "ticketSys": {
-        "mainChannel": 925756286988066846,
-        "mainTicketMessage": 925798966380085358,
+        "mainChannel": ,
+        "mainTicketMessage": ,
         "mainMessageTitle": [
-            "Order Ticket",
-            "Support Ticket",
-            "Application Ticket",
-            "Other"
         ],
         "mainMessageContent": [
-            "Make an order for custom builds, setups, configs, plugins and much more.",
-            "Need help with a resource problem or a general support?",
-            "Have any questions related to working with us and joining our team? Click here!",
-            "If none of these topics helps you , create this ticket."
         ],
         "reactionEmojis": [
-            750394053765627934,
-            925793776813871234,
-            925794597320413196,
-            925797192247111761
         ],
         "reactionMessage": [
-            "Order",
-            "Support",
-            "Application",
-            "Other"
         ],
-        "channelCategory": 750356028725526649,
-        "ticketNumber": 1
+        "channelCategory":,
+        "ticketNumber": 0
     }
 }
